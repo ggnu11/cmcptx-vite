@@ -1,0 +1,7 @@
+React 19 (or Next.js 14)
++ Recoil or Zustand (클라이언트 상태)
++ React Query + axiosInstance (API 데이터)
++ ECharts (실시간 차트)
++ Socket.IO (알림 및 실시간 통신)
++ React Window (가상화 리스트)
++ Tailwind CSS + styled-components (혼용 가능)
